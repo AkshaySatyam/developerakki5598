@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developerakki5598
+- 👋 Hi, I’m Akshay Satyam
 - 👀 I’m interested in developing and coding.
 - 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on ...
